@@ -1,0 +1,11 @@
+transformers
+datasets
+torch
+vllm
+accelerate
+deepspeed
+evaluate
+wandb
+scikit-learn
+peft
+numpy==1.26.4
