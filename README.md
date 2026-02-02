@@ -1,6 +1,6 @@
 # Hierarchical Balancing Optimization (HBO)
 
-This repository contains the data and codes for our paper " [Hierarchical Balancing Optimization for Fine-Tuning Large Language Models](https://arxiv.org/pdf/2505.12300)". HBO is a framework for adaptive dataset sampling to improve fine-tuning efficiency of large language models. It jointly optimizes inter-category and intra-category (difficulty-level) sampling via learned actors that receive rewards derived from model signals. 
+This repository contains the data and codes for our paper " [HBO: Hierarchical Balancing Optimization for Fine-Tuning Large Language Models](https://arxiv.org/pdf/2505.12300)". HBO is a framework for adaptive dataset sampling to improve fine-tuning efficiency of large language models. It jointly optimizes inter-category and intra-category (difficulty-level) sampling via learned actors that receive rewards derived from model signals. 
 
 
 
